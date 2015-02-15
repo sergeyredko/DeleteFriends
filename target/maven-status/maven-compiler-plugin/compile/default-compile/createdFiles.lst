@@ -1,0 +1,5 @@
+autotesting\screen\BaseScreen.class
+autotesting\utils\WebDriverWrapper.class
+autotesting\suits\MainPogodaTest.class
+autotesting\utils\WebDriverRunner.class
+autotesting\screen\MainPageScreen.class

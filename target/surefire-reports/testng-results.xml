@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58872" started-at="2015-02-15T11:25:18Z" finished-at="2015-02-15T11:26:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58872" started-at="2015-02-15T11:25:18Z" finished-at="2015-02-15T11:26:16Z">
+      <class name="autotesting.suits.MainPogodaTest">
+        <test-method status="PASS" signature="pogodaPageTest()[pri:0, instance:autotesting.suits.MainPogodaTest@3bfb66]" name="pogodaPageTest" duration-ms="58835" started-at="2015-02-15T14:25:18Z" finished-at="2015-02-15T14:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pogodaPageTest -->
+      </class> <!-- autotesting.suits.MainPogodaTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
