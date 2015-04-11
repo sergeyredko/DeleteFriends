@@ -23,7 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="pogoda" />
+        <module name="vkDeleteFriends" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pogoda" target="1.5" />
+      <module name="vkDeleteFriends" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
